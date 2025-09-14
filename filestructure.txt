@@ -1,0 +1,46 @@
+|-- .expo
+    |-- devices.json
+    |-- README.md
+|-- .gitignore
+|-- app-env.d.ts
+|-- app.json
+|-- App.tsx
+|-- assets
+    |-- adaptive-icon.png
+    |-- favicon.png
+    |-- icon.png
+    |-- splash.png
+|-- babel.config.js
+|-- cesconfig.jsonc
+|-- components
+    |-- Container.tsx
+    |-- EditScreenInfo.tsx
+    |-- navigation
+        |-- AppNavigator.tsx
+    |-- ScreenContent.tsx
+    |-- ui
+        |-- Button.tsx
+        |-- Card.tsx
+        |-- Header.tsx
+|-- data
+    |-- mockData.ts
+|-- eslint.config.js
+|-- global.css
+|-- metro.config.js
+|-- nativewind-env.d.ts
+|-- package-lock.json
+|-- package.json
+|-- prettier.config.js
+|-- screens
+    |-- AIVisualizerScreen.tsx
+    |-- AppointmentScreen.tsx
+    |-- CatalogScreen.tsx
+    |-- GalleryScreen.tsx
+    |-- HomeScreen.tsx
+    |-- ProfileScreen.tsx
+    |-- ProjectScreen.tsx
+    |-- QuizScreen.tsx
+|-- tailwind.config.js
+|-- tsconfig.json
+|-- types
+    |-- index.ts
